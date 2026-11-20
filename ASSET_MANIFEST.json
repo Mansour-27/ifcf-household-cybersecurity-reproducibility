@@ -1,0 +1,30 @@
+{
+  "files": 1317,
+  "uncompressed_bytes": 842500672,
+  "assets": [
+    {
+      "file": "ifcf-v2.0.0-rc3-core.tar.gz",
+      "bytes": 10049281,
+      "sha256": "2ad71c7a9a99de397c198d5082532b0f6f05dcdecda287d3b813f663767422f9",
+      "files": 849
+    },
+    {
+      "file": "ifcf-v2.0.0-rc3-historical.tar.gz",
+      "bytes": 6035546,
+      "sha256": "bd3e511f54da6deea2ec0796a9054af47760fb4ec550e8f86685c5894f441320",
+      "files": 226
+    },
+    {
+      "file": "ifcf-v2.0.0-rc3-structural.tar.gz",
+      "bytes": 29822627,
+      "sha256": "0b949131db72ffaf5ebb1719111a6b49a0ce80489bc33b66f7466caf8328870d",
+      "files": 53
+    },
+    {
+      "file": "ifcf-v2.0.0-rc3-parameter.tar.gz",
+      "bytes": 154571915,
+      "sha256": "3411d09d8ca8131d96219cf3ee99cd5e21048e6c39d129c35d3d767e98b0d414",
+      "files": 189
+    }
+  ]
+}
